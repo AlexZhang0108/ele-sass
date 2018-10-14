@@ -7,6 +7,8 @@
 ``` bash
 #Alex.zhang
 
+#主要用于修改饿了么组件主题颜色
+
 # install dependencies
 npm install
 
